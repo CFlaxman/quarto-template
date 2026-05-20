@@ -18,4 +18,4 @@ website:
         - pages/2_markdown_basics.qmd
         - pages/3_quarto_features.qmd
         - pages/4_images_videos_documents.qmd
-        - pages/5_inline_htmls.qmd
+        - pages/5_inline_html.qmd
