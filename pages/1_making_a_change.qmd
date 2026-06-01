@@ -1,3 +1,4 @@
 ---
 title: "Exercise 1. Making a change"
 ---
+This is a sentence. Add project details here.
