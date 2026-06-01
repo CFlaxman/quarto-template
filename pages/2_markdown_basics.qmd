@@ -1,3 +1,53 @@
 ---
 title: "Exercise 2. Markdown basics"
 ---
+# My Markdown page
+what happens if I write here, ooooh look it adds to site/page details saved in codespace, unless you commit and sync changes
+***
+
+## Section 1
+The final word of this sentence will be **bold**.
+*This whole sentence will be in italics.*
+
+### Details
+* Bullet point 1
+* Bullet point 2
+* Bullet point 3
+* Bullet point 1
+    * Bullet point level 2
+        * Bullet point level 3
+* Back to level 1
+1. Numbered point 1
+    a. Numbered point level 2 
+    b. Numbered point level 2 again
+2. Back to level 1
+
+Checklist
+
+* [ ] First task
+* [x] Finished task
+
+#### and last sub-heading
+> Quarto helps me keep my work organised.
+
+##### will I need more space for playing with quarto
+
+[University of Exeter](https://www.exeter.ac.uk/)
+
+<https://www.exeter.ac.uk/>
+
+Run `python script.py` in your terminal.
+
+Open `analysis.qmd` and edit the first section.
+
+```bash
+python script.py --help
+echo "Hello, world"
+```
+
+| Letter | Number |extra|
+| - | - |-|
+| A | 1 |4|
+| B | 2 |5|
+| C | 3 |6|
+

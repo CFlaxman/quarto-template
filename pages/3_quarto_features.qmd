@@ -1,3 +1,38 @@
 ---
-title: "Exercise 3. Quarto features"
+title: "My Document"
+bibliography: references.bib
 ---
+
+#Adding notes using callouts
+
+
+::: {.callout-note}
+This is a callout.
+You can use it to draw attention to important information.
+:::
+
+::: {.callout-tip title="Helpful tip"}
+Remember to save your file before you render.
+:::
+
+
+:::: {.columns}
+::: {.column width=35%}add text here
+::: {.column width=%}second columns text
+
+::::
+
+[Visit the University of Exeter website](https://www.exeter.ac.uk){target="_blank"}
+
+
+Here is some text with a footnote.[^1]
+
+[^1]: This is the content of the footnote.
+
+    You can include additional details by going two line below and tab indent.
+
+
+@feng_ultrasonic_2006;@starnberger_uni-_2014
+
+
+
